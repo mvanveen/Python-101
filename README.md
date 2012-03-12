@@ -9,7 +9,7 @@ Python 101
 
 2. Deactivate your Python environment
 
-     `$ deactivate`:
+     `$ deactivate`
 
 ### Helpful Links
 
